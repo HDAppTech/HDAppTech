@@ -1,7 +1,7 @@
 ```markdown
 # Hi, There 👋
 
-I am Hari, a passionate and creative developer from India [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Frontend development, Cross-Platform Developer building responsive, accessible, and performant user interfaces for web and mobile. 🎯
+I am Hari, a passionate and creative developer from India 🇮🇳 with a strong interest in Frontend development, Cross-Platform Developer building responsive, accessible, and performant user interfaces for web and mobile. 🎯
 
 ## 🔭 Tech Stack
 
