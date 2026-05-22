@@ -30,10 +30,6 @@ I'm a Frontend & Cross-Platform Developer building responsive, accessible, and p
 - LinkedIn: https://www.linkedin.com/in/your-profile
 - Portfolio: https://your-portfolio.example.com
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ## 🛠️ Quick Copy — Profile Intro
 
