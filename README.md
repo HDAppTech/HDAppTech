@@ -1,13 +1,15 @@
 ```markdown
-# Hi, I'm Haridongare 👋
-
-I'm a Frontend & Cross-Platform Developer building responsive, accessible, and performant user interfaces for web and mobile.
+# Hi, There 👋
+<!--
+**HDAppTech/HDAppTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+I am [Hari](https://www.linkedin.com/in/hari-dongare-a39467366/), a passionate and creative developer from India [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Frontend development, Cross-Platform Developer building responsive, accessible, and performant user interfaces for web and mobile. 🎯
 
 ## 🔭 Tech Stack
 
 - Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
-- Frameworks/Libraries: React, Next.js, React Native, Expo, Redux, Zustand
-- UI: Tailwind CSS, Material UI, Chakra UI
+- Frameworks/Libraries: Angular, Ionic, React, Next.js, React Native, Expo, Redux
+- UI: Tailwind CSS, Material UI, BootStrap, Angular Material
 - Tools: Vite, Webpack, Babel, ESLint, Prettier, Jest, React Testing Library
 - Backend (familiar): Node.js, Express, Firebase
 
@@ -20,16 +22,14 @@ I'm a Frontend & Cross-Platform Developer building responsive, accessible, and p
 
 ## 🚀 Featured Projects
 
-- Portfolio Website — Next.js, Tailwind CSS, Vercel
+- Portfolio Website — Angular, Tailwind CSS
 - ChatApp — React Native, Expo, Firebase Realtime Database
 - Design System — Storybook, TypeScript, Styled Components
 
 ## 📫 Contact
 
-- Email: your-email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-profile
-- Portfolio: https://your-portfolio.example.com
-
+- Email: donhari541@example.com
+- LinkedIn: https://www.linkedin.com/in/hari-dongare-a39467366/
 
 ## 🛠️ Quick Copy — Profile Intro
 
